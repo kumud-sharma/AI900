@@ -4,19 +4,19 @@
   "BaseURL": "https://github.com/MicrosoftLearning/mslearn-ai900",
   "Files": [
     {
-      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/01%20-%20Image%20Analysis%20with%20Computer%20Vision.ipynb",
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/01-lab-Instructions.md",
       "Order": 1
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/02%20-%20Image%20Classification.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/02-lab-Instructions.md",
       "Order": 2
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/03%20-%20Object%20Detection.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/03-lab-Instructions.md",
       "Order": 3
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/04%20-%20Face%20Analysis.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/04-lab-Instructions.md",
       "Order": 4
     },
     {
@@ -24,27 +24,27 @@
       "Order": 5
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/06%20-%20Receipts%20with%20Form%20Recognizer.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/06-lab-Instructions.md",
       "Order": 6
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/07%20-%20Text%20Analytics.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/07-lab-Instructions.md",
       "Order": 7
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/08%20-%20Speech.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/08-lab-Instructions.md",
       "Order": 8
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/08%20-%20Speech.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/09-lab-Instructions.md",
       "Order": 9
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/09%20-%20Translation.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/10-lab-Instructions.md",
       "Order": 10
     },
 {
-       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/11%20-%20QnA%20Bot.ipynb",
+       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/11-lab-Instructions.md",
       "Order": 11
     }
  ]
