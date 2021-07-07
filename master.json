@@ -4,6 +4,10 @@
   "BaseURL": "https://github.com/MicrosoftLearning/mslearn-ai900",
   "Files": [
     {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/00%20-%20Local%20development.md",
+      "Order": 0
+    },
+    {
       "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai900/main/instructions/01-lab-Instructions.md",
       "Order": 1
     },
